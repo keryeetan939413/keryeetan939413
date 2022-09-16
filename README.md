@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keryeetan939413
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning to build some famous social media app
+- 🌱 I’m currently learning to build some famous social media app like facebook clone, ytclone, twitter clone and etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
