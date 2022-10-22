@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @keryeetan939413
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning to build some famous social media app like facebook clone, ytclone, twitter clone and etc
+- 👋 Hi, I’m Tan Ker Yee
+- 👀 I’m interested in building full-stack application
+- 🌱 I’m currently learning to build Full-Stack Applications like Amazon, linkedin, Netflix and so forth ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me 👉 keryeetan0930@gmail.com
 
 <!---
 keryeetan939413/keryeetan939413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
